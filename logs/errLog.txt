@@ -1,0 +1,14 @@
+20250203	03:55:08	e2c3744d-e55e-459d-a406-58111203be5b	TypeError: fsPromises.readFfile is not a function
+20250204	01:28:16	e976ea8b-6be0-4f38-a0e3-0f36c9a9a524	Not allowed by CORS: Not allowed by CORS
+20250207	17:43:43	ce791e7a-617d-4cd5-818b-b7befa07f64b	TypeError: Cannot read properties of undefined (reading 'authorization')
+20250207	17:43:57	7f84090e-9615-4306-b636-0c519087cc59	TypeError: Cannot read properties of undefined (reading 'authorization')
+20250207	17:44:18	9c518092-cea1-4fe6-9aca-5dac0fae06d3	TypeError: Cannot read properties of undefined (reading 'authorization')
+20250207	17:44:27	210123f5-f867-438c-923d-d53159b49fc1	TypeError: Cannot read properties of undefined (reading 'authorization')
+20250207	17:44:37	d0cc458f-bfd6-449a-8d18-4d76ec190243	TypeError: Cannot read properties of undefined (reading 'authorization')
+20250210	16:19:33	cf0719dc-16ca-465d-a3fc-c9b45e40b14e	TypeError: Cannot read properties of undefined (reading 'username')
+20250210	16:20:05	f4c1c416-e6cd-4615-bd57-c92edd140ffc	TypeError: Cannot read properties of undefined (reading 'username')
+20250210	16:21:57	aea4d64f-ea64-4a67-9b07-c2deec2a8738	TypeError: Cannot read properties of undefined (reading 'username')
+20250210	16:23:40	78d6a274-791e-40e8-bd11-f2abcf17dfed	TypeError: Cannot read properties of undefined (reading 'username')
+20250210	16:23:42	1e21581a-0800-42a2-b233-1e369654ecac	TypeError: Cannot read properties of undefined (reading 'username')
+20250210	16:25:20	a8de1cc7-fca3-4747-bd29-691ba203fcbd	TypeError: Cannot read properties of undefined (reading 'username')
+20250213	13:27:49	96775c01-4372-4e21-8378-42f3bcf2a63e	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
